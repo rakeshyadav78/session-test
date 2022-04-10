@@ -1,0 +1,25 @@
+.page-footer {
+    background-color: #f8f9fa !important;
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+
+.footer-copyright {
+    color: #4650DD;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+
+}
+
+.footer-copyright a {
+    color: #4650DD;
+
+}
+
+.footer-copyright a:hover {
+    color: #4650DD;
+}

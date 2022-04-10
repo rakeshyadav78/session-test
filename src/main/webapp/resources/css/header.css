@@ -1,0 +1,28 @@
+.nav-link {
+    color: white;
+}
+
+.nav {
+    background-color: #f8f9fa!important;
+    padding: 0px;
+  
+}
+
+.nav .nav-item a {
+    color: #4650DD;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.nav .nav-item a:hover {
+    color: #4650DD; 
+    text-decoration: 2px solid underline #4650DD;
+}
+.nav .nav-item a.active {
+    background-color: #4650DD;
+    color: white;
+}
+#header {
+    /* margin-bottom: 10px; */
+    height: 100%;
+}

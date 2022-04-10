@@ -1,0 +1,44 @@
+#homeSideBar ul a {
+    color: #4650DD;
+    display: inline-block;
+    font-size: 17px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 6px;
+    text-align: left;
+    margin: 1px;
+    overflow-wrap: break-word;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
+
+#homeSideBar ul a:not(.active):hover {
+    color: #4650DD;
+    text-decoration: 2px solid underline #4650DD;
+}
+
+#homeSideBar ul a.active {
+    background-color: #4650DD;
+    color: whitesmoke;
+    /* text-decoration: 2px solid underline #4650DD; */
+}
+
+#homeSideBar {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    height: 100%;
+    width: auto;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+#homeContent {
+    background-color: #f8f9fa !important;
+    border-radius: 0px;
+    border-color: #fff !important;
+    ;
+    height: 100%;
+    /* width: auto; */
+    /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; */
+    /* border-radius: 20px; */
+}
